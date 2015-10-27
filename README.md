@@ -9,4 +9,4 @@
 * create compnay pages
 * list job offers
 
-Schema: ![schema](dbc_doors_schema.png)
+Schema: ![schema](https://github.com/aacarr5/DBCDoors/blob/master/public/dbc_doors_schema.png?raw=true)
