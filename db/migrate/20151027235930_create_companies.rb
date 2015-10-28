@@ -4,7 +4,7 @@ class CreateCompanies < ActiveRecord::Migration
 
     	t.string :name
     	t.string :location
-    	t.string :size	
+    	t.string :size
 
       t.timestamps null: false
     end
